@@ -9,62 +9,27 @@
     },
     {
       "id": 2,
-      "nome": "Boto-cor-de-rosa",
-      "descricao": "Segundo a lenda, o boto-cor-de-rosa vive no rio Amazonas, de onde sai durante as festas populares da região, assumindo a aparência de um rapaz atraente e bem arranjado, usando um paletó branco e um chapéu - acessório usado para se tentar esconder o rosto e, principalmente, o seu nariz comprido, o boto passa a noite toda em forma humana, aproveitando para seduzir as moças, que acabam por engravidar. Ao amanhecer, volta a sua forma animal e retorna para o rio.  A lenda do boto é usada para justificar a gravidez de mulheres solteiras ou fora do casamento, assim surgindo o ditado popular “a criança é filho do boto”, utilizado para se referir a essas crianças..",
-      "imagem": "boto.jpg",
-      "regiao": "Norte"
-    },
-    {
-      "id": 3,
-      "nome": "Saci-pererê",
-      "descricao": "Descrito como um menino negro e travesso, que fuma cachimbo e carrega uma carapuça vermelha que lhe concede poderes mágicos, sua principal característica  é o fato de que ele possui apenas uma perna.O Saci-pererê é um personagem muito travesso que se diverte fazendo brincadeiras com os animais e com as pessoas. De acordo com as histórias, as suas principais travessuras são fazer tranças no rabo dos animais durante a noite, esconder objetos, assobiar de maneira muito estridente para assustar os viajantes, trocar o recipiente de sal pelo de açúcar e distrair as cozinheiras para elas que queimem a comida.O Saci é o guardião das ervas e das plantas medicinais, por isso, confunde as pessoas que tentam pegá-las sem autorização,é conhecedor das técnicas de preparo e sabe como utilizar as plantas para fins medicinais.  A lenda garante que para capturar o Saci-pererê, a pessoa deve arremessar uma peneira nos redemoinhos de vento. Dessa maneira, após capturá-lo, é necessário retirar-lhe o gorro para prendê-lo em uma garrafa.  Acredita-se que o Saci nasceu do broto de bambu, permanecendo ali até os sete anos e, após esse período, vive mais setenta e sete anos praticando suas travessuras entre os humanos e os animais, ao morrer,  torna-se um cogumelo venenoso.",
-      "imagem": "saci.jpg",
-      "regiao": "Sul"
-    }
-    {
-      "id": 4,
       "nome": "Negrinho Do Pastoreio",
       "descricao": "Conta-se que no tempo da escravidão havia um senhor cruel que maltratava os negros escravizados diante da menor falta. Certa vez, um dos seus escravos, um menino órfão, deixou escapar o cavalo preferido do senhor. Ele ficou furioso, mandou chicoteá-lo e ordenou que fosse colocado em cima de um formigueiro. O menino passou a noite chamando por Nossa Senhora da Conceição, sua madrinha, para que o livrasse daquelas dores. Enquanto o fazendeiro não conseguia dormir, levantou-se e ficou intrigado quando viu uma forte luz no terreiro,rapidamente, ele foi até o local e ficou surpreso ao encontrar o menino espantando as últimas formigas do seu corpo. Ao seu lado, estava Nossa Senhora e do outro, relinchava o cavalo que tinha sido perdido. O menino olhou para o seu antigo senhor, montou no cavalo baio, sorriu para a Virgem e saiu cavalgando. Dizem que o senhor se arrependeu de suas maldades e até hoje é possível ouvir o Negrinho do Pastoreio cuidando dos animais que se afastam do rebanho e ajudando as pessoas a encontrar objetos perdidos.",
       "imagem": "negrinho-pastoreio.jpg",
       "regiao": "Sul"
-    }
+    },
     {
-      "id": 5,
+      "id": 3,
       "nome": "Papa-figo",
       "descricao": " O Papa-figo é descrito como um homem velho, alto, de roupas sujas e desalinhadas. Conta-se que ele aparece de forma inesperada, “rouba” crianças de suas famílias, colocando-as num saco – e ainda pode comer o fígado (“figo”, na forma popular) daquelas que desobedecem os pais. Também é conhecido como Homem do Saco ou Velho do Saco. Essa é uma lenda criada para alertar as crianças sobre os perigos de falar com desconhecidos pelas ruas e para incentivar sua obediência.",
       "imagem": "papafigo.jpg",
       "regiao": "Nordeste"
-    }
+    },
     {
-      "id": 6,
-      "nome": "Encourado",
-      "descricao": " O Encourado é uma espécie de Vampiro presente no Folclore Brasileiro. Essa lenda conta a história de um homem que possui hábitos noturnos, além de usar uma roupa de couro preto como um cangaceiro, sendo que esta vestimenta fede à sangria. Gosta de se alimentar tanto de Seres Humanos, quanto de Animais. Dizem que ele só entra nas casas em que for convidado, no entanto, sempre dá um jeito de receber as boas graças do anfitrião.Por muitos é descrito como sendo uma versão do próprio diabo e não há formas conhecidas de vencê-lo, mas pode-se evitar sua visita deixando uma oferenda na entrada da cidade.",
-      "imagem": "encourado.jpg",
-      "regiao": "Nordeste"
-    }
-    {
-      "id": 7,
-      "nome": "Pisadeira",
-      "descricao": "A Pisadeira é descrita geralmente como uma mulher velha de chinelos, com dedos enormes e unhas compridas, que se esconde nos telhados e age soturnamente, aparecendo nas madrugadas para pisar fortemente no peito de quem dorme de barriga para cima e estômago cheio. Quando entra em ação, é implacável. Pisa com tanta força que a vítima sente falta de ar, fica indefesa, paralisada, incapaz de qualquer reação. Essa lenda é geralmente associada com a paralisia do sono, sendo usualmente usada para explicar a mesma.",
-      "imagem": "pisadeira.jpg",
-      "regiao": "Sudeste"
-    }
-    {
-      "id": 8,
+      "id": 4,
       "nome": "Chibamba",
       "descricao": " O chibamba é uma lenda típica do Sudeste. Ela fala de uma espécie de bicho-papão que é atraído por crianças malcriadas.É descrito como um fantasma que se veste com folhas de bananeira, dança e tem um ronco assustador, parecido com o de um porco.",
       "imagem": "chibamba.jpg",
       "regiao": "Sudeste"
-    }
+    },
     {
-      "id": 9,
-      "nome": "Bicho-Homem",
-      "descricao": "O bicho-homem está presente em várias regiões do Brasil,  sua figura é descrita como sendo a de uma criatura alta, quase um gigante, com um olho só no meio da testa, também um só pé redondo e enorme, que quando caminha vai deixando pelo chão pegadas redondas. Os dedos de suas mãos são compridos e disformes, as unhas longas e afiadas, e seus gritos assombram os moradores da região onde habitualmente se oculta. Aqueles que já o viram dizem  que ele é muito grande, forte, e extremamente feroz é capaz de derrubar uma montanha a socos e unhadas, beber rios e transportar florestas. Vive escondido em locais de muitas serras e vales e é devorador de homens.",
-      "imagem": "bicho-homem.jpg",
-      "regiao": "Centro-Oeste"
-    }
-    {
-      "id": 10,
+      "id": 5,
       "nome": "Negro-d’água",
       "descricao": "O Negro-d’água é uma espécie de bicho-homem peludo que vive nos rios, assustando pescadores e afundando embarcações. Também conhecido como Caboclo d’água em outras regiões é uma espécie de Saci-Pererê do rio, que vive fazendo travessuras com os pescadores. Anda em bandos e, no fundo dos rios, há a cidade dos negrinhos d’água. Ás vezes, quando capturam um pescador, o leva para o fundo do rio para dar-lhe surra.",
       "imagem": "negro-dagua.jpg",
@@ -72,5 +37,6 @@
     }
   ]
 }
+
 
 
